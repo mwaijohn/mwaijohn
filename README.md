@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm John Mwai</h1>
 <h3 align="center">Just a normal building staffs. It's fun</h3>
+Hours coded Since Jan 30
+
+[![wakatime](https://wakatime.com/badge/user/c3f520e8-d1d7-472f-8ce4-32f492fd4740.svg)](https://wakatime.com/@c3f520e8-d1d7-472f-8ce4-32f492fd4740)
 
 - 📫 Reach me on **mwaijohng@gmail.com**
 
